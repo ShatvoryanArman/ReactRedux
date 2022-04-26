@@ -1,0 +1,12 @@
+.comments-item{
+    display: flex;
+    align-items: center;
+}
+
+.comment-item-delete{
+    cursor: pointer;
+    width: 10px;
+    color: red;
+    text-shadow: 0 0 1px darkred;
+    margin-left: 15px;
+}

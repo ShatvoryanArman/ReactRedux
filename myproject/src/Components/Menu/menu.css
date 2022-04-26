@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+#nav{
+    background-color: black;
+}
+
+.Li2{
+    padding: 10px;
+    color: white;
+    font-size: 40px;
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.Li2:hover{
+    color: red;
+}
+.Li1{
+    padding: 10px;
+    color: green;
+    font-size: 40px;
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 50px;
+    font-family: 'Dancing Script', cursive;
+}
